@@ -1,2 +1,2 @@
-# .github
-My README.md
+# _Hello World!_ Here's the thing...
+Everything you could need to know about me is actually in 9Studio LLC's intro... [which is here](https://github.com/9Studio-LLC)!
